@@ -9,10 +9,10 @@
  5. **Summarized the Data:** Built pivot tables to calculate and group the numbers (oder counts, total revenue ,etc).
  6. **Created Pivot Charts:** Genearted the pivort charts from pivot tables to make interactive dashboard.
  ##  Dashboard visualizations
- *. **Sales By Product:** A vertical bar chart showing sales variation for eac product lines.
- *. **Marketing Performance:** A horizontal bar chart comparing which marketing channel worked well.
- *. **Methods of Payment:** A column chart describing which method of payment people used most.
- *. **Order Status Distribution:** A horizontal bar chart to track delivered,pending and cancelled orders.
- *. **Annual Sales Performance:** A pie chart showing the percentage breakdown of sales in the year 2023,2024 & 2025.
+ * **Sales By Product:** A vertical bar chart showing sales variation for eac product lines.
+ * **Marketing Performance:** A horizontal bar chart comparing which marketing channel worked well.
+ * **Methods of Payment:** A column chart describing which method of payment people used most.
+ * **Order Status Distribution:** A horizontal bar chart to track delivered,pending and cancelled orders.
+ *  **Annual Sales Performance:** A pie chart showing the percentage breakdown of sales in the year 2023,2024 & 2025.
  ## Built With
- *. **Microsoft Excel** including pivot tables, pivot charts and slicers. 
+ * **Microsoft Excel** including pivot tables, pivot charts and slicers. 
